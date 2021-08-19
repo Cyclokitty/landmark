@@ -20,6 +20,7 @@
 		F280FA5126CD95C600C7DAFB /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F280FA5026CD95C600C7DAFB /* ModelData.swift */; };
 		F280FA6826CD9F6100C7DAFB /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F280FA6726CD9F6100C7DAFB /* LandmarkRow.swift */; };
 		F280FA6D26CDA3A300C7DAFB /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F280FA6C26CDA3A300C7DAFB /* LandmarkList.swift */; };
+		F280FA7226CDC0BF00C7DAFB /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = F280FA7126CDC0BF00C7DAFB /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		F280FA5026CD95C600C7DAFB /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		F280FA6726CD9F6100C7DAFB /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		F280FA6C26CDA3A300C7DAFB /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		F280FA7126CDC0BF00C7DAFB /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,6 +156,7 @@
 				F280F9E726CC715B00C7DAFB /* ContentView.swift */,
 				F280FA6726CD9F6100C7DAFB /* LandmarkRow.swift */,
 				F280FA6C26CDA3A300C7DAFB /* LandmarkList.swift */,
+				F280FA7126CDC0BF00C7DAFB /* LandmarkDetail.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -309,6 +312,7 @@
 				F280FA1E26CD728000C7DAFB /* MapView.swift in Sources */,
 				F280F9E626CC715B00C7DAFB /* LandmarksApp.swift in Sources */,
 				F280FA6D26CDA3A300C7DAFB /* LandmarkList.swift in Sources */,
+				F280FA7226CDC0BF00C7DAFB /* LandmarkDetail.swift in Sources */,
 				F280FA1926CD707B00C7DAFB /* CircleImage.swift in Sources */,
 				F280FA2826CD883A00C7DAFB /* Landmark.swift in Sources */,
 				F280FA6826CD9F6100C7DAFB /* LandmarkRow.swift in Sources */,
